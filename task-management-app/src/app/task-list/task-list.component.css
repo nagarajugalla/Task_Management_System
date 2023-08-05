@@ -1,0 +1,9 @@
+table {
+  width: 100%;
+}
+.filters{
+  float: right;
+  position: relative;
+  top: 10px;
+  right: 14px;
+}
